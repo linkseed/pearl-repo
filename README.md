@@ -61,5 +61,7 @@ See pearl for details.
   async language server protocol plugin for vim and neovim
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot):
   A solid language pack for Vim.
+- [vimwiki](https://github.com/vimwiki/vimwiki):
+  Personal Wiki for Vim
 - [zeavim.vim](https://github.com/KabbAmine/zeavim.vim):
   Zeavim, Zeal for Vim
